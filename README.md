@@ -1,7 +1,7 @@
 # Flutter-IOS-Build-Repository
 Anyone have access to build an IOS app without an MacOS or XCode 
 
-#1 Create a Repository & Give any Name as your wish.
+#1 Create a Repository & And add all your App files here
 
 #2 Go to Action & add Dart configuration edit the current file dart.yml from the file in this repo (.github/workflows/dart.yml).
 
